@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weathertoday/static/css/main.016dadb3.css",
+    "main.js": "/weathertoday/static/js/main.7bb1159c.js",
+    "static/js/787.070a0207.chunk.js": "/weathertoday/static/js/787.070a0207.chunk.js",
+    "static/media/daysky.mp4": "/weathertoday/static/media/daysky.f26dbe92b18f09dab766.mp4",
+    "index.html": "/weathertoday/index.html",
+    "main.016dadb3.css.map": "/weathertoday/static/css/main.016dadb3.css.map",
+    "main.7bb1159c.js.map": "/weathertoday/static/js/main.7bb1159c.js.map",
+    "787.070a0207.chunk.js.map": "/weathertoday/static/js/787.070a0207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016dadb3.css",
+    "static/js/main.7bb1159c.js"
+  ]
+}
